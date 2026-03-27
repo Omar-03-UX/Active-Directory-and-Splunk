@@ -1,7 +1,8 @@
 # Active-Directory-and-Splunk
 <p align="center">
  <br/>
-<br /> <"https://i.imgur.com/w8wI4Z2.png" height="80%" width="80%" alt="Protocol"/>
+ <br/>
+<img src="https://i.imgur.com/Ubjwyhk.png" height="80%" width="80%" alt="Protocol"/>
 
 
 <br />
