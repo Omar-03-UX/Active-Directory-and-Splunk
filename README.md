@@ -20,11 +20,6 @@ These are the (recommended Specs for the lab)
 - RAM: 16GB minimum (32GB is smooth)
 - Storage: 150GB free (SSD best)
 
-- **Splunk (Ubuntu):** 4 vCPU, 8GB RAM, 60GB disk (centralized SIEM and log analysis)
-- **Windows 10:  (**Endpoint is for telemetry collection and attack stimulation)
-- **Windows Server 2022:** 2–4 vCPU, 6–8GB RAM, 60GB disk (RDP enabled here)
-- **Kali:** 2 vCPU, 2–4GB RAM, 30GB disk (Red team behavior for stimulating adversary behavior)
-
 **Step 1**
 
 Download the relevant ISO for:  
