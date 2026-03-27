@@ -95,11 +95,6 @@ step 4: Atomic red team installation, add an exclusion for the entire C drive as
 
 The selected tactic is invoked here. 
 
-
-<br />
-<h2> Utilities Used</h2>
-- <b>VM WORKSTATION</b> 
-
 <p align="center">
  <br/>
 <br /> <img src="https://i.imgur.com/9UDdSPS.png" height="80%" width="80%" alt="Protocol"/>
