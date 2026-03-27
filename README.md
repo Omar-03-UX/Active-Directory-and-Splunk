@@ -39,8 +39,57 @@ Download the relevant ISO for:
 - I used the command  **ip  a  to check the existing configuration of Ubuntu.**
 - By using nano, and entering this command in the terminal - **Sudo/etc/netplan/50**, This will allow you to perform static types of configuration, also configuring default gateway and a manual IP assigned.
 
+**Step 4:  Set up Active Directory using (Windows Server 2022)** 
+
+- Promoted the server to a Domain Controller
+- Configured DNS, created test users
+- Joined Windows 10 endpoint to the domain
+
+- **Step 5:** 
+
+- Installed Splunk Enterprise
+- Configured Inputs to receive logs on port 9997
+- Setup the web interface for log search and alerting
+
+- **Step 6:** 
+
+- Configured Windows 10 Endpoint
+- Joined the Domain
+- Installed **Splunk Universal Forwarder**
+- Deployed **Sysmon** for the deep process/network telemetry
 
 
+  **Phase 2: Attack Simulation Triggering Real Telemetry**
+
+Step 1: I used Kali Linux to run attacks and Atomic Red Team on Windows to replicate known TTPs.
+
+- We install crowbar into Kali Linux using the command ***Sudo apt-get install -y crowbar***
+- Before installing crowbar update Kali using the command - (***Sudo apt-get update && sudo  apt-get upgrade -y***
+- Head -n 20 rockyou.txt shows you the first 20 passwords
+- output password to password.txt using >
+
+Step 2:  Enable Remote Desktop Connection from the client machine
+
+Commands I used after downloading Splunk Enterprise on Ubuntu. 
+
+- **cd /tmp** for moving Splunk into a tmp folder
+- **sudo apt - fix-broken install -y**
+- **Sudo /opt/splunk/bin/splunk start**
+- **sudo /opt/splunk/bin/splunk enable boot-start -user splunk -** for allowing Splunk to start once you reboot the machine.
+
+Step 3: Crowbar: I used the command crowbar -b rdp -u bsmith -C password.txt -s 192.168.10.116 
+
+This is used to target the target machine.  Important to make sure DNS is pointed to DC for the connectivity of RDP service to work. 
+
+The commands I used were as follows: 
+
+*cat /etc/resolve.conf (for checking DNS IP)*  
+
+*Echo "nameserver “Nameserver" | sudo tee /etc/resolv.conf  (for changing the current DNS to follow the domain controller)*
+
+step 4: Atomic red team installation, add an exclusion for the entire C drive as microsoft defender will detect atomic red team. 
+
+The selected tactic is invoked here. 
 
 
 <br />
