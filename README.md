@@ -6,6 +6,13 @@
 
 In this lab I setup an Active Directory home lab that became a treat detection lab that was intended to focus on tracking traces. The primary objectives of this lab focused on Telemetry Collection, Log Forwarding, Advesary simulation, Alert correlation and Incident Investigation. 
 
+<br />
+<h2> Utilities Used</h2>
+- <b>Windows Server</b> 
+ <b>Splunk(Ubuntu)</b> 
+ <b>Windows 10</b> 
+ <b>Kali</b> 
+
 These are the (recommended Specs for the lab) 
 
 - CPU: 4+ cores (8+ best)
