@@ -1,4 +1,4 @@
-<img width="1642" height="808" alt="image" src="https://github.com/user-attachments/assets/03b18697-3022-4f0d-8b4f-7fe0c4892c42" /># Active-Directory-and-Splunk
+# Active-Directory-and-Splunk
 <p align="center">
  <br/>
  <br/>
