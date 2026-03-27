@@ -1,8 +1,8 @@
-# Active-Directory-and-Splunk
+<img width="1642" height="808" alt="image" src="https://github.com/user-attachments/assets/03b18697-3022-4f0d-8b4f-7fe0c4892c42" /># Active-Directory-and-Splunk
 <p align="center">
  <br/>
  <br/>
-<img src="https://i.imgur.com/Ubjwyhk.png" height="80%" width="80%" alt="Protocol"/>
+<img src="https://i.imgur.com/w8wI4Z2.png" height="80%" width="80%" alt="Protocol"/>
 
 
 <br />
@@ -11,12 +11,12 @@
 
 <p align="center">
  <br/>
-<br /> <img src="https://i.imgur.com/lJPRXaK.png" height="80%" width="80%" alt="Protocol"/>
+<br /> <img src="https://i.imgur.com/Logd4sG.png" height="80%" width="80%" alt="Protocol"/>
 <br />
-<img src="https://i.imgur.com/Ubjwyhk.png" height="80%" width="80%" alt="Protocol"/>
+<img src="https://i.imgur.com/UPCKOK9.png" height="80%" width="80%" alt="Protocol"/>
 <br />
 <br />
-<img src="https://i.imgur.com/2B4nkiE.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.com/0p8wZmX.png" height="80%" width="80%" alt="Source"/>
 <br /> 
 <img src="https://i.imgur.com/7BgyOzb.png" height="80%" width="80%" alt="Source"/>
 <br />
