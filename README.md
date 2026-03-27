@@ -20,9 +20,9 @@
 <br /> 
 <img src="https://i.imgur.com/IovcBTy.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/IovcBTy.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.cm/IovcBTy.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/IovcBTy.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.com/72MC2NI.png" height="80%" width="80%" alt="Source"/>
 <br />
 <img src="https://i.imgur.com/IovcBTy.png" height="80%" width="80%" alt="Source"/>
 <br />
