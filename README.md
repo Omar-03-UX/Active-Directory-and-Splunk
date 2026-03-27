@@ -31,5 +31,5 @@
 <br />
 <img src="https://i.imgur.com/PQwHMYo.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/J0BkiBa.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.com/6bDpsqo.png" height="80%" width="80%" alt="Source"/>
 <br />
