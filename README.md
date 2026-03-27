@@ -8,6 +8,7 @@ In this lab I setup an Active Directory home lab that became a treat detection l
 
 <br />
 <h2> Utilities Used</h2>
+
 - <b>Windows Server</b> 
  <b>Splunk(Ubuntu)</b> 
  <b>Windows 10</b> 
