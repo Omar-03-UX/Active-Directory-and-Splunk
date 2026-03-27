@@ -38,6 +38,7 @@ Download the relevant ISO for:
 - I created an Ubuntu VM, by going to VMware → **Create New VM**
 - Ubuntu ISO is selected, for etc Ubuntu 64-bit ISO.
 - Once the instructions are followed by download, make sure to update Ubuntu, and upgrade it using the following command.
+  
 - **“sudo apt update &&sudo apt upgrade -y”**
 - I used the command  **ip  a  to check the existing configuration of Ubuntu.**
 - By using nano, and entering this command in the terminal - **Sudo/etc/netplan/50**, This will allow you to perform static types of configuration, also configuring default gateway and a manual IP assigned.
