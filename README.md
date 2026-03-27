@@ -21,7 +21,7 @@
 <br />
 <img src="https://i.imgur.cm/IovcBTy.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/J0BkiBa.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.com/aOMAxDQ.png" height="80%" width="80%" alt="Source"/>
 <br />
 <img src="https://i.imgur.com/s3JESLI.png" height="80%" width="80%" alt="Source"/>
 <br />
