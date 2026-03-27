@@ -22,7 +22,7 @@
 <br />
 <img src="https://i.imgur.cm/IovcBTy.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/WqTLPca.png" height="80%" width="80%" alt="Source"/>
+<img src="https://i.imgur.com/J0BkiBa.png" height="80%" width="80%" alt="Source"/>
 <br />
 <img src="https://i.imgur.com/GpyWEt6.png" height="80%" width="80%" alt="Source"/>
 <br />
