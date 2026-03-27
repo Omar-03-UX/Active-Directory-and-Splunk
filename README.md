@@ -4,6 +4,44 @@
  <br/>
 <img src="https://i.imgur.com/YT6ivIv.png" height="80%" width="80%" alt="Protocol"/>
 
+In this lab I setup an Active Directory home lab that became a treat detection lab that was intended to focus on tracking traces. The primary objectives of this lab focused on Telemetry Collection, Log Forwarding, Advesary simulation, Alert correlation and Incident Investigation. 
+
+These are the (recommended Specs for the lab) 
+
+- CPU: 4+ cores (8+ best)
+- RAM: 16GB minimum (32GB is smooth)
+- Storage: 150GB free (SSD best)
+
+- **Splunk (Ubuntu):** 4 vCPU, 8GB RAM, 60GB disk (centralized SIEM and log analysis)
+- **Windows 10:  (**Endpoint is for telemetry collection and attack stimulation)
+- **Windows Server 2022:** 2–4 vCPU, 6–8GB RAM, 60GB disk (RDP enabled here)
+- **Kali:** 2 vCPU, 2–4GB RAM, 30GB disk (Red team behavior for stimulating adversary behavior)
+
+**Step 1**
+
+Download the relevant ISO for:  
+
+- Ubuntu Server
+- Windows Server 2022
+- Windows 10 (or 11)
+- Kali Linux
+
+**Step 2: VMware Networking**
+
+- Use NAT to enable devices to seamlessly communicate with each other.
+
+**Step 3**
+
+- I created an Ubuntu VM, by going to VMware → **Create New VM**
+- Ubuntu ISO is selected, for etc Ubuntu 64-bit ISO.
+- Once the instructions are followed by download, make sure to update Ubuntu, and upgrade it using the following command.
+- **“sudo apt update &&sudo apt upgrade -y”**
+- I used the command  **ip  a  to check the existing configuration of Ubuntu.**
+- By using nano, and entering this command in the terminal - **Sudo/etc/netplan/50**, This will allow you to perform static types of configuration, also configuring default gateway and a manual IP assigned.
+
+
+
+
 
 <br />
 <h2> Utilities Used</h2>
