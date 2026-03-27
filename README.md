@@ -11,9 +11,9 @@
 
 <p align="center">
  <br/>
-<br /> <img src="https://i.imgur.com/eHAao6A.png" height="80%" width="80%" alt="Protocol"/>
+<br /> <img src="https://i.imgur.com/9UDdSPS.png" height="80%" width="80%" alt="Protocol"/>
 <br />
-<img src="https://i.imgur.com/TwJ09cX.png" height="80%" width="80%" alt="Protocol"/>
+<img src="" height="80%" width="80%" alt="Protocol"/>
 <br />
 <br />
 <img src="" height="80%" width="80%" alt="Source"/>
