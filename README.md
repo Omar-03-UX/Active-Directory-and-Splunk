@@ -99,7 +99,7 @@ The selected tactic is invoked here.
  <br/>
 <br /> <img src="image (10).png" height="80%" width="80%" alt="Protocol"/>
 <br />
-<img src="https://i.imgur.com/ceAHwQ3.png" height="80%" width="80%" alt="Protocol"/>
+<img src="image (11).png" height="80%" width="80%" alt="Protocol"/>
 <br />
 <img src="https://i.imgur.com/7ewAlHk.png" height="80%" width="80%" alt="Source"/>
 <br /> 
