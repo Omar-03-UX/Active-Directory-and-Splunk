@@ -115,6 +115,6 @@ The selected tactic is invoked here.
 <br />
 <img src="" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/PQwHMYo.png" height="80%" width="80%" alt="Source"/>
+<img src="image (18).png" height="80%" width="80%" alt="Source"/>
 <br />
 
