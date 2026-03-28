@@ -2,7 +2,7 @@
 <p align="center">
  <br/>
  <br/>
-<img src="https://i.imgur.com/YT6ivIv.png" height="80%" width="80%" alt="Protocol"/>
+<img src="image (8).png" height="80%" width="80%" alt="Protocol"/>
 
 In this lab I setup an Active Directory home lab that became a treat detection lab that was intended to focus on tracking traces. The primary objectives of this lab focused on Telemetry Collection, Log Forwarding, Advesary simulation, Alert correlation and Incident Investigation. 
 
