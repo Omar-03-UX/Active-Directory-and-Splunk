@@ -111,9 +111,9 @@ The selected tactic is invoked here.
 <br />
 <img src="image (15).png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/7hLdbcs.png" height="80%" width="80%" alt="Source"/>
+<img src="image (16).png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/ofP5GkM.png" height="80%" width="80%" alt="Source"/>
+<img src="" height="80%" width="80%" alt="Source"/>
 <br />
 <img src="https://i.imgur.com/PQwHMYo.png" height="80%" width="80%" alt="Source"/>
 <br />
