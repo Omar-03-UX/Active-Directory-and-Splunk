@@ -109,7 +109,7 @@ The selected tactic is invoked here.
 <br />
 <img src="https://i.imgur.com/aOMAxDQ.png" height="80%" width="80%" alt="Source"/>
 <br />
-<img src="https://i.imgur.com/s3JESLI.png" height="80%" width="80%" alt="Source"/>
+<img src="image (15).png" height="80%" width="80%" alt="Source"/>
 <br />
 <img src="https://i.imgur.com/7hLdbcs.png" height="80%" width="80%" alt="Source"/>
 <br />
